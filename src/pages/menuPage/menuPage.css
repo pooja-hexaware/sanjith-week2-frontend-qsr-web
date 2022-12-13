@@ -1,0 +1,28 @@
+.menuContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menuHeader {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menuCard {
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+}
+
+.menuActions {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menuBody2 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}

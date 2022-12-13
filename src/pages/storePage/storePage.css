@@ -1,0 +1,16 @@
+.storeContent {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.storeHeader {
+    display: flex;
+    justify-content: space-between;
+}
+
+.storeCard {
+    display: flex;
+    text-align: start;
+    flex-direction: column;
+}
